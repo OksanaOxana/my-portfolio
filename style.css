@@ -1,0 +1,355 @@
+body {
+    background: #ECE9E1;
+}
+
+.headerOne {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.photoOne {
+    border-radius: 35%; 
+}
+
+.headerMain {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-self: center;
+}
+
+.headerTwo {
+    display: flex;
+    justify-content: space-around;
+    height: 70vh;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    flex:1;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+}
+
+
+.par, .parTwo {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.par {
+    padding: 50px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.parTwo {
+    margin-top: 20px;
+    font-size: 30px;
+    color:#D71313;
+}
+
+.photoTwo {
+    margin-top: 20px;
+    margin-right: 70px;
+    box-shadow: 35px 35px 5px #585A56;
+}
+
+h1, .name {
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+}
+
+.name {
+    font-size: 35px;
+}
+
+.item {
+    background: #3D3D3D;
+}
+
+.itemLink {
+    font-size: 25px;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 50px;
+    color:#ECE9E1;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.job, h6 {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+hr {
+    border: 1px solid;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background: #3D3D3D;
+    padding: 15px;
+    color: #ECE9E1;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-size: 35px;
+    margin-top: 70px;
+}
+
+.certificate {
+    display: flex;
+    justify-content:space-around;
+}
+
+.certificateOne, .certificateThree {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.certificateTwo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.works {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.oneWork, .twoWork, .headerForm, .iconMain {
+    display: flex;
+}
+
+.workFirst {
+    padding: 10px;
+    margin: 30px;  
+}
+
+.pic {
+    box-shadow: 20px 20px 20px #585A56;
+}
+
+.text-input {
+    font-family: 'Cormorant Garamond', serif;
+    border: none;
+    background: #3D3D3D;
+    padding: 10px;
+    color: #ECE9E1;
+    font-size: 25px;
+}
+
+.buttonFirst  {
+    border: 2px solid #3D3D3D;
+    background: #ECE9E1;
+    color: #3D3D3D;
+}
+
+.buttonSecond {
+    border: 2px solid #B01E68;
+    color: #ECE9E1;
+    background: #3D3D3D;
+}
+
+.buttonFirst:hover {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    background:#D71313;
+    color:#ECE9E1;
+    border: none
+}
+
+.buttonSecond:hover {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    background: #B01E68
+}
+
+.contactOne {
+    display: flex;
+    justify-content:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+.buttonThree {
+    font-family: 'Cormorant Garamond', serif;
+    color: #D71313;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 25px;
+    width: 100%;
+    border-bottom: 2px solid #F94C10;
+    border-top: 2px solid #F94C10;
+    border-left: 2px solid #D71313;
+    border-right: 2px solid #D71313;
+}
+
+.buttonThree:hover {
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    background: #F94C10;
+    color: #ECE9E1;
+}
+
+.info {
+    text-decoration: none;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    color:#3D3D3D;
+    background: #ECE9E1;
+    border: 1px solid #3D3D3D;
+    padding: 5px;
+}
+
+.info:hover {
+    text-transform: uppercase;
+    color:#D71313;
+    border: none;
+}
+
+@media all and (max-width:1200px) {
+
+    .par {
+        padding: 20px;
+        margin-top: 10px;
+        font-size: 22px;
+    }
+
+    .photoTwo {
+        margin-top: 40px;
+        width: 220px;
+    }
+}
+@media all and (max-width:800px) {
+    .headerTwo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        height:100vh;
+    }
+
+    .par {
+        font-size: 20px;
+        padding: 0px;
+    }
+
+    .photoTwo {
+        margin-top: 0px;
+        width:200px
+    }
+    
+    .certificate, .twoWork {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .certificateOne, .certificateTwo,.certificateThree {
+        margin-top: 20px;
+    }
+
+}
+
+
+@media all and (max-width:500px) {  
+    .photoTwo {
+        width: 180px; 
+    }
+
+    .par {
+        font-size: 20px;
+    }
+
+    .headerTwo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+
+    .certificateOne, .certificateTwo,.certificateThree {
+        margin-top: 40px;
+    }
+
+    button, .info {
+        font-size: 20px;
+    } 
+    
+    .contactOne {
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .pic {
+        width:200px
+    }
+
+    .photoOne {
+        width: 100px
+    }
+
+    h6 {
+        font-size: 10px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .name, .job {
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
