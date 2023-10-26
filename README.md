@@ -14,15 +14,17 @@
 
 ### About The Project
 
-  <p>This project will help the employer get an idea of ​​me as an employee.</p>
+ This project will help the employer get an idea of ​​me as an employee.
 
 
 Every developer, when looking for a job, must have a project to demonstrate to the employer. That's why I created this project. 
 
 
-I'm Oksana. I am a front-end developer from Belarus. I have learned HTML/CSS, Bootstrap, JavaScript, Python, Figma, Gsap, Git and now I am learning React. 
+I'm Oksana. I am a front-end developer from Belarus. I have learned HTML/CSS, Bootstrap, JavaScript, Python, Figma, Gsap, Git. 
 
 And now I’m looking for a job where I can put my skills into practice, where I can become part of a team and benefit the company.
+
+I try to learn something new every day and now I am learning React.
 
 In this project information about:
 * My education
