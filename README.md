@@ -54,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Clone the repo at [[https://example.com](https://github.com/OksanaOxana/my-portfolio)](https://github.com/OksanaOxana/my-portfolio)
+1. Clone the repo at [https://github.com/OksanaOxana/my-portfolio](https://github.com/OksanaOxana/my-portfolio)
 2. In the terminal you need to paste the copied link to the project
 3. Next, enter the cloned folder and open the code
 
