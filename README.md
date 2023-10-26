@@ -11,11 +11,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ### About The Project
 
-  <p>
- This project will help the employer get an idea of ​​me as an employee.
-  </p>
+  <p>This project will help the employer get an idea of ​​me as an employee.</p>
 
 
 Every developer, when looking for a job, must have a project to demonstrate to the employer. That's why I created this project. 
