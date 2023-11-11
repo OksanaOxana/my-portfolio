@@ -9,6 +9,12 @@
   </a>
 </div> 
 
+### Built With
+
+* HTML/CSS
+* Bootstrap
+* JavaScript
+* GSAP
 
 <!-- ABOUT THE PROJECT -->
 
@@ -33,16 +39,6 @@ In this project information about:
 * My projects
 
 Use the `BLANK_README.md` to get started.
-
-
-### Built With
-
-
-* HTML/CSS
-* Bootstrap
-* JavaScript
-* GSAP
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
