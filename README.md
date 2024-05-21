@@ -4,7 +4,7 @@
 
  <h3 align="center">My portfolio</h3>
 <div align="center">
-  <a href="https://github.com/OksanaOxana/my-portfolio/blob/main/photo_2023-08-19_13-54-31.jpg">
+  <a href="https://github.com/OksanaOxana/my-portfolio/blob/main">
     <img src="https://github.com/OksanaOxana/my-portfolio/blob/main/photo_2023-08-19_13-54-31.jpg" alt="Logo" width="80" height="100">
   </a>
 </div> 
